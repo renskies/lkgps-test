@@ -1,0 +1,19 @@
+{
+  "name": "lkgp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "h02test.js",
+  "scripts": {
+    "start": "NODE_ENV=production h02test",
+    "dev": "nodemon h02test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
