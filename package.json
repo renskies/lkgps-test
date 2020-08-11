@@ -4,7 +4,7 @@
   "description": "",
   "main": "h02test.js",
   "scripts": {
-    "start": "NODE_ENV=production h02test",
+    "start": "NODE_ENV=production h02tes2",
     "dev": "nodemon h02test"
   },
   "author": "",
